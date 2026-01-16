@@ -1,0 +1,4 @@
+complaint_text,category,urgency,credibility,area
+no water,Water,Medium,50,Zone A
+no electricity,Electricity,Medium,50,Zone A
+no water for so many days and many children are sick,Water,Critical,65,Zone A
