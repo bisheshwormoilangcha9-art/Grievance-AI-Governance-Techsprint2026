@@ -1,0 +1,59 @@
+complaint_text,category,area
+No water supply for 5 days in my area,Water,Zone A
+Road is broken and accidents happen daily,Road,Zone B
+Electricity cut for last 10 hours,Electricity,Zone A
+Garbage not collected for a week,Sanitation,Zone C
+Hospital has no doctor available,Health,Zone B
+Street lights not working at night,Electricity,Zone C
+Drainage overflow causing bad smell,Sanitation,Zone A
+People fighting and no police response,Law & Order,Zone B
+Lack of public transport facilities,Transport,Zone C
+complaint_text,category,area
+No water supply in our locality for the past 5 days and residents are suffering badly,Water,Zone A
+Road near the market is completely damaged and vehicles are getting stuck every day,Road,Zone B
+Frequent power cuts happening every night for more than 6 hours,Electricity,Zone A
+Garbage has not been collected for over a week and foul smell is spreading,Sanitation,Zone C
+Government hospital has no doctors available during emergency hours,Health,Zone B
+Street lights are not working in our area making it unsafe at night,Electricity,Zone C
+Drainage water is overflowing on the main road causing health hazards,Sanitation,Zone A
+Police are not responding to repeated calls regarding illegal activities,Law & Order,Zone B
+No clean drinking water available and children are falling sick,Water,Zone A
+Large potholes on highway causing frequent accidents,Road,Zone C
+Electric supply is unstable affecting local businesses badly,Electricity,Zone B
+Waste bins are overflowing and garbage is scattered everywhere,Sanitation,Zone A
+Ambulance service did not arrive on time during an emergency,Health,Zone C
+Street lights broken near school creating danger for students,Electricity,Zone B
+Sewage leakage near residential houses causing unbearable smell,Sanitation,Zone C
+Water pipeline damaged and no repair work done yet,Water,Zone B
+Traffic police not managing congestion during peak hours,Law & Order,Zone A
+Hospital lacks basic medicines for patients,Health,Zone A
+Road construction left incomplete for months causing dust pollution,Road,Zone C
+Electric poles are sparking and posing serious risk,Electricity,Zone A
+Garbage collection vehicle skips our area regularly,Sanitation,Zone B
+Water tankers not supplied despite continuous shortage,Water,Zone C
+Unauthorized street vendors blocking footpaths and roads,Law & Order,Zone B
+Emergency ward overcrowded with no staff assistance,Health,Zone C
+Main road has no proper drainage leading to water logging,Road,Zone A
+Frequent transformer failures causing long power outages,Electricity,Zone B
+Public toilets are unhygienic and unusable,Sanitation,Zone C
+No water connection provided even after multiple complaints,Water,Zone A
+Police not taking action on repeated noise complaints,Law & Order,Zone C
+Hospital staff behavior is rude and negligent,Health,Zone B
+Road signs missing leading to confusion and accidents,Road,Zone B
+Voltage fluctuations damaging household appliances,Electricity,Zone C
+Garbage dumped in open areas attracting stray animals,Sanitation,Zone A
+Irregular water supply timing causing inconvenience,Water,Zone B
+Street fights occurring frequently without police patrols,Law & Order,Zone A
+No doctors available in rural health center,Health,Zone A
+Road shoulders damaged causing traffic jams,Road,Zone C
+Electric meters malfunctioning giving incorrect readings,Electricity,Zone B
+Garbage burning creating air pollution,Sanitation,Zone C
+Contaminated water supply causing stomach infections,Water,Zone C
+Police station unreachable during emergency calls,Law & Order,Zone B
+Hospital lacks proper sanitation facilities,Health,Zone C
+Road cracks widening during monsoon season,Road,Zone A
+Electric wires hanging dangerously low,Electricity,Zone A
+Garbage collection delayed during festivals,Sanitation,Zone B
+Water pressure extremely low in morning hours,Water,Zone B
+Illegal parking causing traffic obstruction,Law & Order,Zone C
+No medical staff available at night in hospital,Health,Zone A
