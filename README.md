@@ -36,6 +36,9 @@ GrievanceSense uses Artificial Intelligence and Natural Language Processing to:
    streamlit run app.py  
 
 ## Team
-Team Name: __________  
-Members: __________  
+Team Name: Team A4 
+Members: 1) Leebash Angom
+         2) Rolenson Tongbram
+         3) Moirangthem Bisheshwor Singh
+
 
